@@ -1,4 +1,4 @@
-#include "..\include\search.h"
+#include "../include/search.h"
 
 
 int Search_Linear(int * array, int size, int num)
